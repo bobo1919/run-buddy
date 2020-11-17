@@ -1,0 +1,26 @@
+
+Match the command with its definition.
+
+response - correct
+Git Init command Creates a new Git repository
+Git Status command Tells you what has changed since the last commit.
+Git add is The command you need to run before git commit
+
+
+
+How do you add a message to a git commit?
+
+Add -m "message" at the end of git commit.
+
+
+
+Correct: Yes, adding the option -m indicates that you're including a
+message indicating the purpose of the commit.
+You'll then add the message inside double quotes, so that the final command
+reads git commit -m "message".
+
+create new repository = git Init
+status = changes since last commit
+add = last command to run before commit
+
+mnemonic - INIT STATUS ADD //in order of creation to commiting a new repository
